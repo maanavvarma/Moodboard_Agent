@@ -1,6 +1,7 @@
 # Moodboard_Agent
 ## Description:
 Moodboard AI Agent created during my Wayfair AI Agent Engineering for Business Intelligence Externship.
+I included screenshots of what the workflow looks like, the input, and the image that ends up being generated after the user input.
 
 ## Tools used:
 - n8n
